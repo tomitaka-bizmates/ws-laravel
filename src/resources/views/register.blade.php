@@ -8,7 +8,7 @@
     <title>登録画面</title>
 </head>
 <body>
-    <h1>登録画面</h1>
+    <h1>登録画面 ci cd</h1>
     <form action="" method="post">
         @csrf
         <label for="name">名前</label>
